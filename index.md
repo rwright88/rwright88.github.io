@@ -1,5 +1,3 @@
-# Ray Wright
-
 I am a data scientist working in the U.S.
 
 ## Projects
