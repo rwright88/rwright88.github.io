@@ -1,5 +1,3 @@
-I am a data scientist working in the U.S.
-
 ## Projects
 
 ### [COVID-19](https://rwright-covid.herokuapp.com/)
